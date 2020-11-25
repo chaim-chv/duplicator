@@ -8,9 +8,9 @@ because of in firefox there is no shortcut to duplicating tabs, Users familiar w
 
 you can place the addon button everywhere on the upper tollbar. right-click on the addons bar, beside the address bar, and choose "Customize" - hen you can drag the icon to the place you want.
 
-i was place him right there:
-![duplicator near home button](https://i.stack.imgur.com/JW0Nc.png)<br>
+i was place him right there:<br>
+![duplicator near home button](https://i.imgur.com/KfGeYPI.png)<br>
 think this is cool...
 
 ---
-the duplicate icon is from icons8 [here](https://icons8.com/icon/98618/duplicate)
+:information_source: the duplicate icon is from icons8 - [here](https://icons8.com/icon/98618/duplicate).
