@@ -9,6 +9,11 @@
       "48": "icons/dup48.png",
       "96": "icons/dup96.png"
     },
+
+    "developer": {
+      "name": "chv",
+      "url": "https://blog.chv.ovh"
+    },
   
     "background": {
       "scripts": ["background.js"]
