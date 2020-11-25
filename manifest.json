@@ -1,0 +1,35 @@
+{
+    "manifest_version": 2,
+    "name": "duplicator",
+    "version": "0.0.1",
+    "author": "chv - netfree user & netfree fan",
+    "description": "click the button to duplicate current tab",
+    "icons": {
+      "24": "icons/dup24.png",
+      "48": "icons/dup48.png",
+      "96": "icons/dup96.png"
+    },
+  
+    "background": {
+      "scripts": ["background.js"]
+    },
+  
+    "browser_action": {
+      "default_icon": "icons/dup24.png",
+      "default_title": "duplicate activeTab"
+    },
+
+    "commands": {
+      "_execute_browser_action": {
+          "suggested_key": {
+              "default": "Ctrl+Alt+D"
+          }
+      }
+    },
+  
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ]
+
+  }
