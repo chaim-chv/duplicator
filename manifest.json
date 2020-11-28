@@ -21,7 +21,7 @@
   
     "browser_action": {
       "default_icon": "icons/dup24.png",
-      "default_title": "duplicate activeTab"
+      "default_title": "Duplicate active tab"
     },
 
     "commands": {

@@ -1,5 +1,7 @@
 ### ![duplicator near home button](icons/dup24.png) DUPLICATOR
 ---
+#### In mozilla add-ons gallery: https://addons.mozilla.org/addon/one-click-duplicator/
+
 This is very simple addon - lets you **duplicate the active Tab to new tab**, in one click.
 
 Because of in firefox there is no shortcut to duplicating tabs, Users familiar with this option can be very disappointed. With this plugin you can duplicate the current tab:
