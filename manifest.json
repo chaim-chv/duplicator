@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "duplicator",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "chv - netfree user & netfree fan",
     "description": "click the button to duplicate current tab",
     "icons": {
